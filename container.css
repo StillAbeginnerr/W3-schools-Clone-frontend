@@ -86,24 +86,37 @@ footer{
  }
  h4{
      position: relative;
- right: 279px;
- font-size: 32px;
+ right: 629px;
+ font-size: 12px;
  top: 500px;
     }
  .btn-1{
      position: relative;
-     right: -160px;
-     top: 320px;
+     right: -60px;
+     top: 300px;
  }
+ .container-1-texts-1{
+    position:relative;
+    top: 120px;
+    font-weight:bolder;
+    left: 80px;
+    font-size: 48px;
+}
+.container-1-texts-2{
+    position:relative;
+    top: 200px;
+    left: 20px;
+    font-size: 18px;
+}
  .btn-2{
     position: relative;
-    right: -200px;
-    top: 320px;
+    right: 82px;
+    top: 380px;
 }
 .btn-3{
     position: relative;
-    right: -240px;
-    top: 320px;
+    right: 227px;
+    top: 460px;
 }
 
 }

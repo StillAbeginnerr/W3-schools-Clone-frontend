@@ -76,29 +76,31 @@ border: none;
     .header-background{
         position: relative;
         top: -65px;
-        width: 1119px;
+        width: 419px;
         height: 740px;
     }
     .imgcurve{
         position: relative;
-        top:319px
+        top:219px;
     }
    .submit-box{
+       display: flex;
        position: relative;
-       right:40px
+       right:-80px
    }
    .search-box{
        position: relative;
-       right: 50px;
+       right: 70px;
        width: 293px;
    }
    .list-header{
        position: relative;
-       right: 10px;
+       right: 30px;
    }
    .search-icon{
        position: relative;
-       left: -87px;
+       left: -73px;
+       top: -9px;
    }
    
 }
